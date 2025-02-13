@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p7653-e1161917.adobeaemcloud.com//bin/franklin.delivery/ichirital/emea-eds-xwalk/main"
+    url: "https://author-p150752-e1554344.adobeaemcloud.com/bin/franklin.delivery/ichirital/emea-eds-xwalk/main"
     type: "markup"
     suffix: ".html"
